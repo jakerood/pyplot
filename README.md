@@ -1,11 +1,6 @@
-# Matplotlib and pyplot
+# Project 3: Employ Matplotlib and pyplot
+## Name: Jake Rood
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
-
-## Rubric
-
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+This repository contains my work for Project #3 in Web Mining and Applied Natural Language Processing.
+The repository contains a notebook with completed tasks focused on using Matplotlib and pyplot to build charts.
+The repository also contains an HTML version of the notebook mentioned above.
